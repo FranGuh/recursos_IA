@@ -84,3 +84,4 @@ Utiliza esta tabla para trackear tu avance y anotar los *trade-offs* o conceptos
 * 🧩 [Paradigmas de Programación (Funcional, OOP, Reactiva)](https://youtu.be/GehWsIr6oFo?si=eoTpFNDbRfB6x_3-)
 * 🏛️ [Cada Patrón de Arquitectura Explicado en 18 Minutos](https://www.youtube.com/watch?v=q3YQy1lJutw)
 * ⚙️ [Patrones de Diseño (Strategy, Factory, Observer, Singleton)](https://youtu.be/rqOaZf4xMlI?si=UldVOxv06a6RpnVu)
+* 🏛️ [El agent loop ha llegado](https://www.youtube.com/watch?v=aZML4zJaai8)
