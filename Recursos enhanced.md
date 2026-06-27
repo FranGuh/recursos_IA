@@ -85,3 +85,4 @@ Utiliza esta tabla para trackear tu avance y anotar los *trade-offs* o conceptos
 * 🏛️ [Cada Patrón de Arquitectura Explicado en 18 Minutos](https://www.youtube.com/watch?v=q3YQy1lJutw)
 * ⚙️ [Patrones de Diseño (Strategy, Factory, Observer, Singleton)](https://youtu.be/rqOaZf4xMlI?si=UldVOxv06a6RpnVu)
 * 🏛️ [El agent loop ha llegado](https://www.youtube.com/watch?v=aZML4zJaai8)
+* 🎥 [Cómo construir lo único que la IA no puede copiar](https://www.youtube.com/watch?v=GnBRh5TGYxI)
